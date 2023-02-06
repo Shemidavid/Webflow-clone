@@ -1,0 +1,175 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    background-color:#583bb6 ;
+    padding: 2em 5em;
+    color: white;
+    margin: 0%;
+}
+.firstspan{
+    font-size: 28px;
+    font-weight: bold;
+    margin-left: 10%;
+}
+.firstbutton{
+    font-size: 30px;
+    padding: 0.6% 0.7%;
+    color: white;
+    border-radius: 9px;
+    background-color: #9a82e9;
+    margin-left: 3%;
+}
+.secondbutton{
+    font-size: 30px;
+    padding: 0.6% 0.7%;
+    color: white;
+    border-radius: 9px;
+    background-color: #9a82e9;
+}
+.thirdbutton{
+    font-size: 30px;
+    padding: 0.6% 0.7%;
+    color: white;
+    border-radius: 9px;
+    background-color: #9a82e9;
+
+}
+.forthbutton{
+    font-size: 30px;
+    padding: 0.6% 0.7%;
+    color: white;
+    border-radius: 9px;
+    background-color: #9a82e9;
+
+}
+.fifthbutton{
+    padding: 0.9% 2%;
+    margin-left: 5%;
+    border-radius: 20px;
+    font-size: 70%;
+    background-color: white;
+    
+}
+.firstdiv{
+    background-color: #f5f8fb;
+    padding-bottom: 3%;
+    cursor: pointer;
+    padding-top: 1%;
+}
+.zyromain{
+    font-size: 150%;
+    font-weight: bolder;
+    margin-left: 2em;
+}
+#firstspan{
+    margin: 2em;
+}
+
+.forthspan{
+    margin-right: 27%;
+}
+#thirdspan{
+    margin: 1em;
+}
+.sixthbutton{
+    color: black;
+    padding: 0.8% 2%;
+    border-radius: 20px;
+    font-size: 70%;
+}
+.firstptag{
+    font-size: 320%;
+    font-weight: 100%;
+    margin-left: 14%;
+    margin-bottom: 4%;
+}
+#spandiv{
+    margin: 1em;
+    font-size: 85%;
+    font-weight: 550;
+}
+.divspan1{
+    margin-left: 13%;
+    font-size: 85%;
+    font-weight: 550;
+}
+.seconddiv{
+    padding: 1%;
+}
+.thirddiv{
+    margin-left: 14%;
+}
+.forthptag{
+    width: 60%;
+    font-size: 48px;
+    font-weight: 800;
+    letter-spacing: -1px;
+    cursor: pointer;
+}
+.fifthptag{
+    font-weight:1%;
+    cursor: pointer;
+}
+.sixthptag{
+    font-size: 18px;
+    line-height: 1.78;
+    letter-spacing: 0.5px;
+    width: 50%;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.heroimage{
+    width: 50%;
+    margin-left: 13%;
+}
+.minimal{
+    color: #583bb6;
+    text-decoration: underline;
+}
+.seventhptag{
+    margin-left: 20%;
+    font-size: 250%;
+    font-weight: bold;
+}
+.eightptag{
+    font-size: 230%;
+    color: #583bb6;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.ninthptag{
+    font-size: 250%;
+    font-weight: bold;
+}
+.tenthptag{
+    font-size: 18px;
+    line-height: 1.78;
+    letter-spacing: 0.5px;
+    width: 50%;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.eleventhptag{
+    margin-left: 20%;
+    font-size: 250%;
+    font-weight: bold;
+}
+.twelveptag{
+    font-size: 250%;
+    font-weight: bold;
+}
+.thirtenptag{
+    font-size: 230%;
+    color: #583bb6;
+    text-decoration: underline;
+}
+.fourteenptag{
+    font-size: 18px;
+    line-height: 1.78;
+    letter-spacing: 0.5px;
+    width: 50%;
+    margin-left: 20%;
+    margin-top: 5%;
+}
